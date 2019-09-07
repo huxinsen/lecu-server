@@ -1,0 +1,31 @@
+{
+  "name": "lecu-server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "acorn": "^6.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.3",
+    "express": "^4.17.1",
+    "formidable": "latest",
+    "jsonwebtoken": "^8.1.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.15.0",
+    "pug": "^2.0.4",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4",
+    "uuid": "^3.1.0"
+  },
+  "apidoc": {
+    "description": "lecu server api doc",
+    "title": "Lecu Server API"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2"
+  }
+}
