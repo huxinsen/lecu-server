@@ -11,7 +11,7 @@
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.4",
     "debug": "~2.6.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "formidable": "latest",
     "jsonwebtoken": "^8.1.0",
     "morgan": "^1.9.1",
