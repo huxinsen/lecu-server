@@ -13,7 +13,7 @@
     "debug": "~2.6.3",
     "express": "^4.17.1",
     "formidable": "latest",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "morgan": "^1.9.1",
     "mysql": "^2.15.0",
     "pug": "^2.0.4",
